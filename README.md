@@ -1,7 +1,7 @@
 # ConvoConnect Readme
 
 Welcome to the ConvoConnect project! This is a simplified version of the popular communication platform, Discord. The goal of this project is to provide a basic understanding of how Discord works and to demonstrate some key features of a real-time messaging application.
-
+Live -> https://my-discordclone.netlify.app
 ## Table of Contents
 
 1. [Introduction](#introduction)
