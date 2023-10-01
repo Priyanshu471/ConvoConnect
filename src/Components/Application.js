@@ -150,7 +150,7 @@ function Application(props) {
   const [editProfileModal, setEditProfileModal] = useState(false);
   const [alert, setAlert] = useState(false);
   const open = Boolean(anchorEl);
-  console.log(userDetails.photoURL);
+  // console.log(userDetails.photoURL);
   useEffect(() => {
     db.collection("users")
       .doc(uid)
